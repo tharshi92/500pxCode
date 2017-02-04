@@ -1,2 +1,2 @@
-model_checkpoint_path: "/Users/tharshisri/500px/model.ckpt"
-all_model_checkpoint_paths: "/Users/tharshisri/500px/model.ckpt"
+model_checkpoint_path: "/Users/tharshisri/500px/model"
+all_model_checkpoint_paths: "/Users/tharshisri/500px/model"
